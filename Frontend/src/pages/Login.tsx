@@ -21,7 +21,7 @@ const Login = () => {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <div className="w-full max-w-md p-8 bg-white shadow-lg rounded-xl">
-        <h2 className="text-2xl font-bold text-center mb-6">Welcome to PlanNer!</h2>
+        <h2 className="text-2xl font-bold text-center mb-6">Welcome to Plan Wise!</h2>
         <form onSubmit={handleLogin} className="space-y-4">
           <input
             type="email"

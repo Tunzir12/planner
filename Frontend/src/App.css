@@ -1,1 +1,4 @@
+:root{
+  background-image: url('../src/assets/background.webp')
+}
 @import "tailwindcss";
