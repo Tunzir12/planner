@@ -20,7 +20,7 @@ const Navbar = () => {
           {/* Left: Logo & Links */}
           <div className="flex items-center space-x-6">
             <Link to="/dashboard" className="text-xl font-bold text-blue-600">
-              MyApp
+              PlanWiSe
             </Link>
             <div className="hidden md:flex space-x-6">
               <Link to="/dashboard" className="text-gray-700 hover:text-blue-500">Dashboard</Link>
